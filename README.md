@@ -11,7 +11,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>back-end developer</b> skilled in API server.🚀<br/>
-  I studied Elementary Education & Computer Science at university and will graduate on August, 2022.<br/>
+  I studied Elementary Education & Computer Science at university and will graduate in August, 2022.<br/>
   For the past year, I have developed android mobile app using Java Language (but prefer api server to develop💖)<br/>
  <br/>
   I enjoy watching movies, traveling, reading, and exercising. ⛰🎬📚🏃‍♀️<br/>
