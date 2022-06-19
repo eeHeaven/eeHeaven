@@ -5,7 +5,7 @@
 
  <p>
   <a href="https://velog.io/@eeheaven" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:porori0703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/porori0703@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:porori0703@gmail.com" target="_blank"><img src="https://img.shields.io/badge/eeheaven0703@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.notion.so/moviel-public/TIL-90b5c767459d4826842af768d6e0ee2d" target="_blank"><img src="https://img.shields.io/badge/TIL in Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
