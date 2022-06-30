@@ -9,14 +9,6 @@
   <a href="https://www.notion.so/moviel-public/TIL-90b5c767459d4826842af768d6e0ee2d" target="_blank"><img src="https://img.shields.io/badge/TIL in Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
-<p>
-  👋&nbsp; Hi there! I'm <b>back-end developer</b> skilled in API server.🚀<br/>
-  I studied Elementary Education & Computer Science at university and will graduate in August, 2022.<br/>
-  For the past year, I have developed android mobile app using Java Language (but prefer api server to develop💖)<br/>
- <br/>
-  I enjoy watching movies, traveling, reading, and exercising. ⛰🎬📚🏃‍♀️<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
 
 ### 💪 Skills
 #### Platforms & Languages & Tools
